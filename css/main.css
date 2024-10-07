@@ -89,6 +89,9 @@ nav button {
 main {
   padding-bottom: 4rem;
 }
+.headshot {
+  width: 10%;
+}
 .weather-card {
   background-color: var(--blue);
   color: white;
